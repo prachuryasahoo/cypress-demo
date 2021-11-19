@@ -1,6 +1,6 @@
 # Project description
 
-This project demonstrates how a cypress.env.json file can be used to secure user login credentials.
+This project demonstrates how a cypress.env.json file can be used to secure user login credentials in a web application (Demoblaze).
 
 ## Pre-requisites
 
