@@ -1,7 +1,6 @@
 # Project description
 
-This project demonstrates how to use a cypress.env.json file 
-to protect user login credentials.
+This project demonstrates how a cypress.env.json file can be used to secure user login credentials.
 
 ## Pre-requisites
 
@@ -29,7 +28,7 @@ npm run cypress:open
 
 The env file can be used to create multiple variables based on the environment used for execution.
 
-Important: The cypress.env.json file is added to .gitignore to ensure the user credentials are secure.
+NOTE: The cypress.env.json file is added to .gitignore to ensure the user credentials are secure.
 
 For more details refer:
  
