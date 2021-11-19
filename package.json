@@ -1,0 +1,15 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "Project to encrypt password",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "cypress:open": "cypress open"
+  },
+  "author": "Prachurya",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.0.0"
+  }   
+}
