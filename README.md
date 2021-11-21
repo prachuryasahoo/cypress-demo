@@ -30,7 +30,7 @@ The env file can be used to create multiple variables based on the environment u
 
 NOTE: The cypress.env.json file is added to .gitignore to ensure the user credentials are secure.
 
-For more details refer:
+References:
  
 https://docs.cypress.io/guides/guides/environment-variables#Option-2-cypress-env-json
 
