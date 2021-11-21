@@ -33,3 +33,4 @@ NOTE: The cypress.env.json file is added to .gitignore to ensure the user creden
 For more details refer:
  
 https://docs.cypress.io/guides/guides/environment-variables#Option-2-cypress-env-json
+https://levelup.gitconnected.com/environment-variables-in-cypress-end-to-end-testing-e2f20acd6a86
